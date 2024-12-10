@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FffYv
-- 👀 I’m interested in mobile development/hardware
+- 👀 I’m interested in iot devices/hardware
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on..., well nothing yet im still learning!
 - 📫 How to reach me (idk, placeholder here for now)
