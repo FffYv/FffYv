@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Go
 - 💞️ I’m looking to collaborate on..., well nothing yet im still learning!
 - 📫 How to reach me (idk, placeholder here for now)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Crocodile's tongues are attached to the roof of their mouths, so they can't stick their tongue out. Alligators can though!
 
 <!---
